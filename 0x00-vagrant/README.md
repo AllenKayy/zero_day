@@ -1,0 +1,1 @@
+A vagrant is a common tool for virtual machines management combined with a simple command line interface. The tool is expected to make the entire process easy without polluting the main installation with tons of configuration files. In the backend, there is one Virtual Box utilized by the Vagrant tool to run virtual machines.
